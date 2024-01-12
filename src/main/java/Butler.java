@@ -5,7 +5,6 @@ import java.util.ArrayList;
 import java.util.ArrayList;
 
 public class Butler {
-public class Butler {
 
     public void welcome() {
 
