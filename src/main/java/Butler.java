@@ -1,8 +1,6 @@
 import org.apache.commons.collections.ListUtils;
-import java.util.ArrayList;
-import java.util.ArrayList;
-import java.util.ArrayList;
-import java.util.ArrayList;
+import org.apache.commons.collections.ListUtils;
+// import java.util.ArrayList;
 
 public class Butler {
 
@@ -12,7 +10,7 @@ public class Butler {
         // Should appear as Potentially Reachable
         ArrayList<String> list1 = new ArrayList<String>();
         // ArrayList<String> list1 = new ArrayList<String>();
-        list1.add("Hello");
+        list1.add("Hello")
         // ArrayList<String> list1 = new ArrayList<String>();
         ArrayList<String> list2 = new ArrayList<String>();
         list2.add("World");
