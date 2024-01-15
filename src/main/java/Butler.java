@@ -10,7 +10,7 @@ public class Butler {
         // Should appear as Potentially Reachable
         ArrayList<String> list1 = new ArrayList<String>();
         // ArrayList<String> list1 = new ArrayList<String>();
-        list1.add("Hello")
+        list1.add("Hello");
         // ArrayList<String> list1 = new ArrayList<String>();
         ArrayList<String> list2 = new ArrayList<String>();
         list2.add("World");
